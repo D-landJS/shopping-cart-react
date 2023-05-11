@@ -1,7 +1,7 @@
 # Shopping Cart App
-It's a simple project with shopping cart in React using Hooks, interfaces, mocks, context and reducers, 
+It's a simple project with shopping cart in React using Hooks, filters, localstorage interfaces, mocks, context and reducers, 
 
-Es un proyecto simple con carrito de compras en React usando Hooks, interfaces, mocks, context y reducers,
+Es un proyecto simple con carrito de compras en React usando Hooks, filters,localstorage interfaces, mocks, context y reducers,
 
 URL Netlify Page ->
 [Click here]()
