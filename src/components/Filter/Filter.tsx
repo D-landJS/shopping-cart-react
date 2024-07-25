@@ -44,8 +44,8 @@ const Filter = () => {
 					value={filters.category}
 				>
 					<option value="all">Todas</option>
-					<option value="laptops">Portátiles</option>
-					<option value="smartphones">Celulares</option>
+					<option value="beauty">Belleza</option>
+					<option value="fragrances">Fragancias</option>
 				</select>
 			</div>
 		</section>
